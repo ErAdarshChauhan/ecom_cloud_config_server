@@ -1,5 +1,5 @@
 build:
   id: 1011
   version: 1.0.0
-  name: SIT
-  type: Testing
+  name: Default
+  type: Default
